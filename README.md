@@ -1,1 +1,12 @@
-# JARURAT_CARE
+
+Installing :-
+
+npm install
+
+
+then Starting:- 
+npm start
+
+
+
+
